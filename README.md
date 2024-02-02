@@ -76,7 +76,6 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `FumbleBe`, `FlashMob`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +116,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Open dance_floor.html in your browser
    ```sh
-   firefox dance_floor.html
+   browse dance_floor.html
    ```
 
 
@@ -128,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Fill the desire width, height and interval time then click the rooster button !
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -139,10 +138,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Add a favico
+- [ ] Change add image for dancer
+- [ ] Change colors for others
+    - [ ] Blue become Black
+    - [ ] White become Yellow 
+- [ ] Use Vue.js instead of Vanilla
 
 See the [open issues](https://github.com/FumbleBe/FlashMob/issues) for a full list of proposed features (and known issues).
 
