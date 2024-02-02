@@ -139,7 +139,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [ ] Add a favico
-- [ ] Change add image for dancer
+- [ ] Change hat image for dancer
 - [ ] Change colors for others
     - [ ] Blue become Black
     - [ ] White become Yellow 
