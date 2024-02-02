@@ -9,7 +9,7 @@
 
         // Get the value of the input fields
         var width = document.querySelector('#width').value;
-        var height = document.querySelector('#width').value;
+        var height = document.querySelector('#height').value;
         var interval = document.querySelector('#interval').value;
 
         const dance_floor = document.getElementById('dance-floor');
