@@ -35,7 +35,7 @@
     <a href="https://github.com/FumbleBe/FlashMob"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/FumbleBe/FlashMob">View Demo</a>
+    <a href="https://fumblebe.github.io/FlashMob/index.html">View Demo</a>
     ·
     <a href="https://github.com/FumbleBe/FlashMob/issues">Report Bug</a>
     ·
