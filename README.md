@@ -30,6 +30,8 @@
   <p align="center">
     Organization of the biggest flash mob of all time.
     <br />
+    This application helps you simulate the choregaphy of the Flash Mob.
+    <br />
     <a href="https://github.com/FumbleBe/FlashMob"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -85,11 +87,14 @@
 
 * [![Bootstrap.com][Bootstrap.com]][Bootstrap-url]
 * [![JavaScript][JavaScript]][JavaScript-url]
-* [![Sass][Sass]][Sass-url]
+* [![CSS][CSS]][css-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- GETTING STARTED -->
+## Preview
+Click [here](https://fumblebe.github.io/FlashMob/index.html) for a live preview of this simulator.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -114,9 +119,9 @@ To get a local copy up and running follow these simple example steps.
     ```sh
    cd FlashMob
    ```
-3. Open dance_floor.html in your browser
+3. Open index.html in your browser
    ```sh
-   browse dance_floor.html
+   browse index.html
    ```
 
 
@@ -232,5 +237,7 @@ Project Link: [https://github.com/FumbleBe/FlashMob](https://github.com/FumbleBe
 [JavaScript-url]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 [Sass]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [Sass-url]: https://sass-lang.com/
+[CSS]:https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://developer.mozilla.org/fr/docs/Web/CSS
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
