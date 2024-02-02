@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Biggest Flash Mod of All Time !</title>
+    <!-- Import Bootstrap from CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- Import Custom stylesheet -->
+    <link rel="stylesheet" href="style.sass">
+</head>
+
+<body>
+    <div class="pt-5 container-fluid customcolor text-center">
+        <div class="row justify-content-center">
+            <div class="col-auto">
+                <form class="row gy-2 gx-3 align-items-center">
+                    <div class="col-auto">
+                        <label class="visually-hidden" for="width">Width</label>
+                        <input type="number" class="form-control" id="width" placeholder="width" required>
+                    </div>
+                    <span class="col-auto text-muted">
+                        X
+                    </span>
+                    <div class="col-auto">
+                        <label class="visually-hidden" for="height">Height</label>
+                        <input type="number" class="form-control" id="height" placeholder="height" required>
+                    </div>
+                    <div class="col-auto">
+                        <label class="visually-hidden" for="interval">Interval</label>
+                        <select class="form-select" id="interval" required>
+                            <option selected disabled value="">Every...</option>
+                            <option value="1000">Second</option>
+                            <option value="2000">Three seconds</option>
+                            <option value="5000">Five seconds</option>
+                            <option value="10000">Ten seconds</option>
+                        </select>
+                    </div>
+                    <div class="col-auto">
+                        <button type="submit" class="btn">
+                            <img class="w-75" src="assets/images/rooster.png" alt="Button Image">
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row pt-5 justify-content-center"></div>
+            <div class="col-auto">
+                <table id="dance-floor" class="table table-borderless">
+                    <!-- Grid cells will be dynamically generated here -->
+                </table>
+            </div>
+        </div>
+    <!-- Import JS logic -->
+    <script src="flash_mob.js"></script>
+</body>
+</html>
